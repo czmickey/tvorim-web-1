@@ -27,14 +27,14 @@
 
 # Programy
 
-* editory: Atom (zdarma), Sublime text (placený)
-* prohlížeče: je třeba testovat stránky pro zaostalejší prohížeče
+* editory: Visual Studio Code, Atom (zdarma), Sublime text (placený)
+* prohlížeče: je třeba testovat stránky pro zaostalejší prohlížeče
 
 ----
 
 # DevTools
 
-* **Nástroje pro vývojáře** (developer tools) umí každý slušný prohlížeč
+* **Nástroje pro vývojáře** (developer tools) umí každý moderní prohlížeč
 * zobrazí kód stránky, styly a další užitečné info
 * buď <kbd>F12</kbd>, popř. <kbd>Ctrl+Shift+I</kbd> nebo pravým myšítkem na prvek, který vás zajímá a vybrat _Prozkoumat/Inspect element_
 * změny které uděláte vydrží jen do obnovení stránky
@@ -47,7 +47,7 @@
 
 # Srazy
 
-* Frontendisti.cz (Praha, Brno, Ostrava, Plzeň)
+* Čtvrtkon (České Budějovice) http://ctvrtkon.cz/
 
 ----
 

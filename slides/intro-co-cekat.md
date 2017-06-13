@@ -49,7 +49,7 @@
 
 # Kodérka
 # Front end vývojářka
-# Frontendistka
+<!--# Frontendistka-->
 
 
 >>>

@@ -105,6 +105,21 @@ img {
 
 ----
 
+### Maximální a minimální velikost
+
+```css
+.tip {
+	min-width: 100px;
+    max-width: 960px;
+}
+```
+
+<!-- .element: class="c-text-md " contenteditable="true" -->
+
+<img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
+
+----
+
 ### Box-model ‒ shrnutí
 
 <img src="img/box-model-margin.svg" style="border:0 none;box-shadow:none;">
@@ -121,3 +136,9 @@ img {
 <!-- .slide: data-state="c-slide-task" -->
 
 # Odsadíme obsah od okrajů
+
+----
+
+<!-- .slide: data-state="c-slide-task" -->
+
+# Roztáhneme pozadí až do okraje
