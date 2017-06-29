@@ -62,7 +62,7 @@
 * <kbd>Ctrl+A+C+V</kbd> srovná odsazení celého souboru (Thimble)
 * <kbd>Tab</kbd> přidat odsazení
 * <kbd>Shift+Tab</kbd> ubrat odsazení
-
+	* lze odsazovat více řádků najednou
 ----
 
 ## Klávesové zkratky
@@ -70,7 +70,6 @@
 ### Pouze Thimble
 * <kbd class="nichtvergissmeinnicht">Ctrl+D</kbd> Duplikovat (výběr nebo řádek)
 * <kbd class="nichtvergissmeinnicht">Ctrl+/</kbd> Zakomentuj (výběr nebo řádek)
-	* lze odszazovat více řádků najednou
 * <kbd class="nichtvergissmeinnicht">Ctrl+E</kbd> rychlá editace (v css barvy, v html styly)
 * <kbd class="nichtvergissmeinnicht">Alt+K</kbd> Inline dokumentace v angličtině
 
