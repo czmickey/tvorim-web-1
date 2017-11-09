@@ -48,6 +48,8 @@
 # Srazy
 
 * Čtvrtkon (České Budějovice) http://ctvrtkon.cz/
+* Další srazy na Jihočeské IT akce (http://www.jihoceskeitakce.cz)
+* Facebook: Czechitas Club České Budějovice
 
 ----
 

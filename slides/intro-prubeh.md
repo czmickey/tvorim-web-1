@@ -67,7 +67,7 @@ Budete si s ní moc dál hrát a možná budete mít i prostor na ní ještě pr
 
 - začátek 9:30
 - oběd zde ve 12:00
-- 17:30 konec
+- přibližně v 18:00 konec
 
 a zhruba každou hodinu 10 minut pauza
 
